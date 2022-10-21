@@ -1,0 +1,17 @@
+body{
+    background-color:bisque;
+    width:500px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+}
+button{
+    background-color:brown;
+    color:aliceblue;
+    border-radius:50%;
+    height:80px;
+    width:80px;
+}
+input{
+    height:50px;
+}
